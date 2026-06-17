@@ -1,0 +1,6 @@
+{
+  "name": "勉強つづくタイマー",
+  "description": "中学2年生向け：ゲーミフィケーション要素を取り入れた、自発的かつ効率的な学習をサポートする学習タイマー",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
